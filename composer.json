@@ -1,0 +1,24 @@
+{
+    "name": "otherjustin/upus10checkdigit",
+    "type": "library",
+    "description": "Generate UPU S10 Check Digits",
+    "keywords": ["deutschepost","upus10","barcode","checkdigit"],
+    "homepage": "https://github.com/otherjustin/UPUS10CheckDigit",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin Scott",
+            "email": "post@justinscott.net",
+            "homepage": "http://justinscott.net",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "UPUS10CheckDigit": "src"
+        }
+    }
+}
