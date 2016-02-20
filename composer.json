@@ -2,7 +2,7 @@
     "name": "otherjustin/upus10checkdigit",
     "type": "library",
     "description": "Generate UPU S10 Check Digits",
-    "keywords": ["deutschepost","upus10","barcode","checkdigit"],
+    "keywords": ["deutschepost","upus10","barcode","checkdigit","upu","s10"],
     "homepage": "https://github.com/otherjustin/UPUS10CheckDigit",
     "license": "MIT",
     "authors": [
